@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Tech Sphere Community Projects Playground
 
-Welcome to the **Tech Sphere Community Projects Playground** – a beginner-friendly repo where **learning meets contribution**. Whether you're just starting out or want to give back by building cool stuff or breaking down complex ideas in simple terms, this space is for you.
+Welcome to the **Tech Sphere Community Projects Playground**  a beginner-friendly repo where **learning meets contribution**. Whether you're just starting out or want to give back by building cool stuff or breaking down complex ideas in simple terms, this space is for you.
 
 ---
 
