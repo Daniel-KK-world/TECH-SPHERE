@@ -8,7 +8,7 @@ Welcome to the **Tech Sphere Community Projects Playground**  a beginner-friendl
 
 ### 📘 explainers-non-code/
 
-For folks who want to **understand programming concepts without touching code (yet)**. Break things down using everyday Naija-style analogies. Think of it as the community classroom. 🧠✍️
+For folks who want to **understand programming concepts without touching code (yet)**. Break things down using everyday analogies. Think of it as the community classroom. 🧠✍️
 
 - `A-basics/` → Variables, Data Types, Operators  
 - `B-control-flow/` → If/else, Loops  
